@@ -6,9 +6,9 @@
 
 #los archivos afectados son :
 
-#Loguin_Cliente.js
-#Carga_informacion_cliente.js
-#Commands.js
+,Loguin_Cliente.js
+,Carga_informacion_cliente.js
+,Commands.js
 
 
 
